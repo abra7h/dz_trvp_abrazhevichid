@@ -1,0 +1,6 @@
+node_modules/
+airline.db
+.DS_Store
+*.log
+.env
+db-config.js
